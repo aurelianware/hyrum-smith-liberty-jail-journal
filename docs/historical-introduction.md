@@ -1,0 +1,7 @@
+# Historical Introduction
+
+In the winter of 1838–1839, the state of Missouri imprisoned Joseph and Hyrum Smith and several companions under charges of treason arising from the expulsion of the Saints from their settlements in Caldwell and Daviess Counties. Confined first at Richmond and then in the cold stone jail at Liberty, Clay County, they endured months of deprivation while their families and followers fled across the frozen Missouri River into Illinois. From within those walls Hyrum Smith recorded reflections that reveal neither bitterness nor rebellion, but a steady trust in God and a belief that the cause for which they suffered was nothing less than the defense of liberty and conscience.
+
+These journal pages, preserved in his own hand, capture a moment when the young American republic—barely a generation past the War of 1812—was still defining what freedom meant for religious minorities. Hyrum’s words speak of faith amid persecution, of loyalty to law even when law was misused, and of hope for a Zion society grounded in equity, self‑reliance, and mutual care. Far from the rhetoric of insurrection, the diary testifies of a man convinced that divine justice and civic liberty were inseparable.
+
+This edition presents Hyrum Smith’s surviving Liberty Jail entries from March through April 1839, in both faithful transcription and readable modern text, accompanied by contextual notes that situate his witness within the broader American struggle between principle and power.
