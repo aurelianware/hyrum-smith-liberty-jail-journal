@@ -1,0 +1,22 @@
+{
+  "Editorial: illegible": {
+    "prefix": "illegible",
+    "scope": "markdown",
+    "body": ["[illegible]"]
+  },
+  "Editorial: uncertain word": {
+    "prefix": "uncertain",
+    "scope": "markdown",
+    "body": ["[${1:word}?]"]
+  },
+  "Editorial: torn": {
+    "prefix": "torn",
+    "scope": "markdown",
+    "body": ["[torn]"]
+  },
+  "Editorial: end of page": {
+    "prefix": "endpage",
+    "scope": "markdown",
+    "body": ["[End of page ${1:?}]"]
+  }
+}

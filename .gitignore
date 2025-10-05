@@ -1,0 +1,10 @@
+# Python & tooling
+__pycache__/
+*.pyc
+.venv/
+
+# Processed assets
+images/processed/
+
+# macOS
+.DS_Store
